@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\bin\Debug\net6.0\Zadacha_025.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\bin\Debug\net6.0\Zadacha_025.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\bin\Debug\net6.0\Zadacha_025.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\bin\Debug\net6.0\Zadacha_025.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\bin\Debug\net6.0\Zadacha_025.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\refint\Zadacha_025.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\Zadacha_025.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Zadacha_025\obj\Debug\net6.0\ref\Zadacha_025.dll
