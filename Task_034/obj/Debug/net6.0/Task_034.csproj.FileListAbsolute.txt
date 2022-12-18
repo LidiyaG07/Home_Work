@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\bin\Debug\net6.0\Task_034.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\bin\Debug\net6.0\Task_034.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\bin\Debug\net6.0\Task_034.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\bin\Debug\net6.0\Task_034.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\bin\Debug\net6.0\Task_034.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\refint\Task_034.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\Task_034.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\HomeWork\Task_034\obj\Debug\net6.0\ref\Task_034.dll
