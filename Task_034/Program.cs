@@ -5,10 +5,12 @@
 
 Console.WriteLine("Массив из трехзначных чисел: ");
 int[] nums = new int[5];
-GetRandom(nums);
-int count = 0; 
+int count = 0;
+GetRandom();
+GetPositive();
 
-void GetRandom(int[] nums)
+
+void GetRandom()
 {
     for (int i = 0; i < nums.Length; i++)
     {
